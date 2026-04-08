@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-   "test": "echo \"Усі тести успішно пройдено!\" && exit 0"
+   "test": "echo \"Усі тести успішно пройдено!\" && exit 1"
   },
   "keywords": [],
   "author": "",
